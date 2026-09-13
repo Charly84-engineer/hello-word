@@ -7,16 +7,16 @@
   {
     "id": 2,
     "texto": "estudiar git y github",
-    "completada": false
+    "completada": true
   },
   {
     "id": 3,
     "texto": "Junta con el equipo de Hackatlon",
-    "completada": false
+    "completada": true
   },
   {
     "id": 4,
     "texto": "Comer",
-    "completada": false
+    "completada": true
   }
 ]

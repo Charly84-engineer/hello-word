@@ -1,5 +1,6 @@
 # Lista de tareas en Python
 
+
 Aplicacion sencilla de consola para guardar y organizar tareas en un archivo local.
 
 ## Requisitos

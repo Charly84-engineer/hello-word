@@ -99,9 +99,3 @@ python script.py listar
 - `README.md`: contiene esta documentacion.
 
 No necesitas crear `tareas.json` manualmente: aparece despues de agregar la primera tarea.
-
-
-se agrego la nueva rama de modificaciones para el proyecto de git y github
-
-
-estoy haciendo un cambio en master

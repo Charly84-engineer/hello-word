@@ -101,9 +101,17 @@ python script.py listar
 No necesitas crear `tareas.json` manualmente: aparece despues de agregar la primera tarea.
 
 
+<<<<<<< HEAD
 
 agregar lineas para ver un merge
 un cambio en la rama develop
 haciendo c=lineas que no estan en main
 
 mas cambios para un merge
+=======
+se agrego la nueva rama de modificaciones para el proyecto de git y github
+
+
+
+esto es el commit de la rama proyects_work
+>>>>>>> proyects_work
